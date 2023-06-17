@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://3098264508.github.io/2023/06/11/hello-world/</loc>
+    
+    <lastmod>2023-06-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://3098264508.github.io/link/index.html</loc>
     
     <lastmod>2023-06-15</lastmod>
@@ -23,15 +32,6 @@
     <loc>https://3098264508.github.io/tags/index.html</loc>
     
     <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://3098264508.github.io/2023/06/11/hello-world/</loc>
-    
-    <lastmod>2023-06-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
